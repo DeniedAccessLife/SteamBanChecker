@@ -1,0 +1,15 @@
+{
+  "name": "SteamBanChecker",
+  "version": "1.0.0",
+  "description": "Program for getting blocking status of multiple Steam accounts using steamID64.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DeniedAccessLife",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "open": "^6.4.0"
+  }
+}
