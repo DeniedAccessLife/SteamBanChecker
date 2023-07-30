@@ -1,5 +1,5 @@
 # SteamBanChecker
-Program for getting blocking status of multiple Steam accounts using steamID64.
+Program for getting blocking status of multiple Steam accounts using SteamID64.
 
 # View
 Window of the program.
